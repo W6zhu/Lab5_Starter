@@ -3,11 +3,10 @@
 - Reiner Luminto
 - Wilson Zhu
 
-Expose:
-https://w6zhu.github.io/Lab5_Starter/expose.html
+[Expose](https://w6zhu.github.io/Lab5_Starter/expose.html)
 
-Explore:
-https://w6zhu.github.io/Lab5_Starter/explore.html
+[Explore](https://w6zhu.github.io/Lab5_Starter/explore.html)
+
 
 Explore Questions: <br>
 1. Yes, you could use unit tests to an extent for a "message: feature of a messaging application. The unit tests would test whether or not the input is valid and the object is properly constructed prior to being sent. However you will not use unit tests to test the full functionality of it such as what happens when you press send.
