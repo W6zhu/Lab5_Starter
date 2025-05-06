@@ -3,9 +3,9 @@
 - Reiner Luminto
 - Wilson Zhu
 
-[Expose](https://w6zhu.github.io/Lab5_Starter/expose.html)
+[Expose](https://rluminto.github.io/Lab5_Starter/expose.html)
 
-[Explore](https://w6zhu.github.io/Lab5_Starter/explore.html)
+[Explore](https://rluminto.github.io/Lab5_Starter/explore.html)
 
 
 Explore Questions: <br>
